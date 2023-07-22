@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Estl-Board-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Estl-Board-eagle-import.kicad_sym")(options "")(descr ""))
+)

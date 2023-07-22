@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Estl-Board")(type "KiCad")(uri "$(KIPRJMOD)/Estl-Board.pretty")(options "")(descr ""))
+)
